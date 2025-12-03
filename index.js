@@ -28,7 +28,7 @@ function addOne1(){
 
 function addTwo2(){
     awayscore=awayscore+2
-    document.getElementById("away-score").textContent=awayscorescore
+    document.getElementById("away-score").textContent=awayscore
 }
 
 function addThree3(){
